@@ -42,8 +42,8 @@
 
 ## 🤝 Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-HuangRunzhe-black?style=for-the-badge&logo=github)](https://github.com/HuangRunzhe)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourTwitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourTwitter)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![X](https://img.shields.io/badge/Twitter-@yourTwitter-blue?style=for-the-badge&logo=twitter)]([https://twitter.com/yourTwitter](https://x.com/MakerHung2020))
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:huangrunzhe8@outlook.com)
 
 ---
 
