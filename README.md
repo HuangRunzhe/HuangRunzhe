@@ -42,7 +42,7 @@
 
 ## 🤝 Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-HuangRunzhe-black?style=for-the-badge&logo=github)](https://github.com/HuangRunzhe)
-[![X](https://img.shields.io/badge/Twitter-@yourTwitter-blue?style=for-the-badge&logo=twitter)]([https://twitter.com/yourTwitter](https://x.com/MakerHung2020))
+[![X](https://img.shields.io/badge/Twitter-@MakerHung2020-blue?style=for-the-badge&logo=twitter)](https://x.com/MakerHung2020)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:huangrunzhe8@outlook.com)
 
 ---
