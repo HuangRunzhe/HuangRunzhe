@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm HuangRunzhe 👋
 
-<!--
-**HuangRunzhe/HuangRunzhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [huzi-AI](https://github.com/HuangRunzhe/huzi-AI)
+- 🌱 I’m learning Python, Flask, TailwindCSS
+- 💬 Ask me about AI, Open Source, or anything!
+- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love programming and building cool projects!
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuangRunzhe&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Latest Projects
+- 🛠️ [huzi-AI](https://github.com/HuangRunzhe/huzi-AI) - A Chatbot mimicking Hu Chenfeng
+- 📡 More coming soon!
