@@ -36,6 +36,7 @@
 
 ## 🌟 Latest Projects:
 - 🚀 [huzi-AI](https://github.com/HuangRunzhe/huzi-AI) - A Chatbot mimicking Hu Chenfeng
+- 🚘[Sohu]([huzi-AI](https://github.com/HuangRunzhe/huzi-AI)) -Sohu Engine
 - 🎨 More projects coming soon!
 
 ---
