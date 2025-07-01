@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Huang Runzhe</h1>
-<p align="center">Independent Developer · AI Engineer · Pythonista</p>
+<p align="center">💻 Independent Developer | 🔬 AI & Automation Enthusiast | 🌍 Based in China</p>
 
 <p align="center">
   <a href="https://github.com/HuangRunzhe">
